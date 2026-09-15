@@ -1,0 +1,11 @@
+{
+  "name": "user-service",
+  "version": "1.0.0",
+  "main": "user.js",
+  "scripts": { "start": "node user.js" },
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.5.1",
+    "dotenv": "^16.4.5"
+  }
+}

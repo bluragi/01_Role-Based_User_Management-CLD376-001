@@ -1,0 +1,12 @@
+{
+  "name": "api-gateway",
+  "version": "1.0.0",
+  "main": "api-gateway.js",
+  "scripts": { "start": "node api-gateway.js" },
+  "dependencies": {
+    "express": "^4.19.2",
+    "http-proxy": "^1.18.1",
+    "jsonwebtoken": "^9.0.2",
+    "dotenv": "^16.4.5"
+  }
+}
